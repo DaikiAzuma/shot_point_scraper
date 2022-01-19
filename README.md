@@ -1,6 +1,6 @@
 # shot_point_scraper　
 
-"shot_point_scraper" is a library for scraping shot positions and their information for one game from understats. 
+"shot_point_scraper" is a library for scraping shot positions and their information for one game from [Understats](https://understat.com/). 
 
 # Features
  
