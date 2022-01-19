@@ -12,6 +12,8 @@ shot_point_scraper　supports csv files, excel files, and sql files as output fi
 * beautifulsoup4 4.10.0
 * pandas 1.3.5
 * openpyxl 3.0.9
+* requests 2.27.1
+* lxml
  
 # Installation
  
