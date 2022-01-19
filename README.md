@@ -1,6 +1,6 @@
 # shot_point_scraper　
 
-"shot_point_scraper" is a library for scraping shot positions and their information for one game from [Understats](https://understat.com/). 
+"shot_point_scraper" is a library for scraping shot positions and their information for one game from [Understat](https://understat.com/). 
 
 # Features
  
@@ -25,7 +25,7 @@ pip install shotpointscraper
  
 # Usage
  
- 1. Check the ID of the match you want to retrieve from [Understats](https://understat.com/)
+ 1. Check the ID of the match you want to retrieve from [Understat](https://understat.com/)
    ID You can check the ID of the match in the URL section.(https://understat.com/match/ID)
 
  2.In the environment where shot_point_scraper is installed, execute the following command
