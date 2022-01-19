@@ -42,17 +42,18 @@ The file will then be generated.
   xy: Describe the chute coordinates using two columns, x and y.
   point: Write the chute coordinates in one column using commas and parentheses for x and y.
   
-  example:
-    xy:
-    |  x  |  y  |
-    | ---- | ---- |
-    |  112.07  |  43.4  |
-    |  115.15  |  38.9  |
-    point:
-    |  point  |
-    | ---- |
-    |  (112.07,43.4)  |
-    |  (115,15,38.9)  |
+example:
+ xy:
+|  x  |  y  |
+| ---- | ---- |
+|  112.07  |  43.4  |
+|  115.15  |  38.9  |
+
+ point:
+|  point  |
+| ---- |
+|  (112.07,43.4)  |
+|  (115,15,38.9)  |
     
 7.You will be asked for the name of the file to be generated and the name of the database table to be filled in the sql file.
 The file will then be generated.
