@@ -68,10 +68,11 @@ For the shoot position information, I use the statbomb type.(0<=x<=120,0<=y<=80)
 
 * Daiki Azuma 
 * Musashino University
-* Twitter : 
+* Twitter : https://twitter.com/comfused_azuma
 
 # License
  
 "shot_point_scraper" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 I hope this library will be useful to you.
+Thank you!
