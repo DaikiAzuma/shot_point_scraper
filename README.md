@@ -4,7 +4,7 @@
 
 # Features
  
-shot_point_scraper　supports csv files, excel files, and sql files as output file formats.
+shot_point_scraper supports csv files, excel files, and sql files as output file formats.
  
 # Requirement
  
